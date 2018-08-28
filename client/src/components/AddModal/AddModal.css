@@ -1,0 +1,93 @@
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 70%;
+    height: 70%;
+    background: rgba(0, 0, 0, 0.6);
+  }
+  
+  .modal-main {
+    position:fixed;
+    background: white;
+    width: 50%;
+    height: auto;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+  }
+
+  .display-block {
+    display: block;
+  }
+
+  #bottom-navbar {
+    margin: 0 auto;
+  }
+  
+  .btn {
+    box-shadow: 0 0;
+    margin: auto 1px;
+    background-color: #ee534f;
+  }
+  
+  i.material-icons {
+    padding-top: -3px;
+    padding-bottom: -3px;
+  }
+  #footer-button {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  
+  /* This is the modal navigation buttons */
+  .controller {
+    /* background-color: green; */
+    padding-left: 40%;
+    margin: 0 10px;
+  }
+  .modal-header {
+    background-color: #ee534f;
+    padding: 30px 40px;
+  }
+  .modal-title {
+    color: white;
+  }
+  #close-btn {
+    color: white;
+  }
+  .logins {
+    padding-left: 35%;
+    /* background-color: blue; */
+  }
+  
+  /* The submit button in the modal */
+  /* .submit-button {
+    background-color: #ee534f;
+    margin-left: 13%;
+  
+  } */
+  
+  /* #plusButton {
+    padding: 10px;
+  } */
+  
+  
+  
+#plusButton {
+  cursor: pointer;
+}
+.modal-content {
+  padding: 0 10px;
+}
+.logins {
+  /* background-color: blue; */
+  padding-right: 33%;
+}
+div#myModal.modal.fade.in {
+  display: block;
+  padding-right: 0;
+}
+.modal {
+  /* padding-right: 17px; */
+}

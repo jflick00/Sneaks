@@ -1,0 +1,16 @@
+#profile-content {
+  width: 100%;
+  display: inline-block;
+}
+
+#content-grid {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.shoe-card {
+  width: 150px;
+  height: 150px;
+  border: 3px solid #939393;
+  margin: 0 auto;
+}

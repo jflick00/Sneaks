@@ -1,0 +1,13 @@
+#profile-pic{
+  width: 150px;
+  height: 150px;
+ 
+  margin: 0 auto;
+  float: right;
+}
+
+#profile-info {
+  width: 70%;
+  margin: 0 auto 30px;
+}
+
